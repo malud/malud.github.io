@@ -1,2 +1,0 @@
-# malud.github.io
-web
